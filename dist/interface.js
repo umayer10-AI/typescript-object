@@ -20,6 +20,14 @@ let b = {
     age: 21,
     college: "Programming Hero"
 };
+let c = {
+    name: "Umayer Boss",
+    age: 21,
+    college: "Programming Hero",
+    year: 2026,
+    free: true
+};
 console.log(a);
 console.log(b);
+console.log(c);
 //# sourceMappingURL=interface.js.map

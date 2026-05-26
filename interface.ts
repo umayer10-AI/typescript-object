@@ -15,6 +15,10 @@ interface A {
     age: number,
     college: string
 }
+interface B extends A {
+    year: number,
+    free: boolean
+}
 
 let a: A = {
     name: "Umayer Ahmad",
@@ -26,5 +30,14 @@ let b: A = {
     age: 21,
     college: "Programming Hero"
 }
+
+let c: B = {
+    name: "Umayer Boss",
+    age: 21,
+    college: "Programming Hero",
+    year: 2026,
+    free :true
+}
 console.log(a)
 console.log(b)
+console.log(c)
