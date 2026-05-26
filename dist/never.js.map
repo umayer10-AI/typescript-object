@@ -1,1 +1,1 @@
-{"version":3,"file":"never.js","sourceRoot":"","sources":["../never.ts"],"names":[],"mappings":""}
+{"version":3,"file":"never.js","sourceRoot":"","sources":["../never.ts"],"names":[],"mappings":";;AAAA,MAAM,CAAC,GAAG,GAAU,EAAE;IAClB,OAAM,IAAI,EAAC,CAAC;QACR,OAAO,CAAC,GAAG,CAAC,MAAM,CAAC,CAAA;IACvB,CAAC;AACL,CAAC,CAAA;AAED,MAAM,CAAC,GAAG,GAAS,EAAE;IACjB,MAAM,IAAI,KAAK,CAAC,oBAAoB,CAAC,CAAA;AACzC,CAAC,CAAA"}
