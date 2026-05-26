@@ -1,1 +1,1 @@
-{"version":3,"file":"union.js","sourceRoot":"","sources":["../union.ts"],"names":[],"mappings":""}
+{"version":3,"file":"union.js","sourceRoot":"","sources":["../union.ts"],"names":[],"mappings":";;AAAA,MAAM,CAAC,GAAG,GAAiC,EAAE;IACzC,IAAI,IAAI,GAAG,CAAC,CAAA;IACZ,IAAG,IAAI,GAAG,CAAC,EAAC,CAAC;QACT,OAAO,CAAC,OAAO,EAAC,WAAW,CAAC,CAAA;IAChC,CAAC;SACG,CAAC;QACD,OAAO,QAAQ,CAAA;IACnB,CAAC;AACL,CAAC,CAAA;AACD,OAAO,CAAC,GAAG,CAAC,CAAC,EAAE,CAAC,CAAA"}
