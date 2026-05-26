@@ -11,13 +11,30 @@
 
 // console.log(a)
 
+// let a: {
+//     [key: string]: string | number | undefined
+// } = {
+//     name: "Umayer",
+//     age: 21,
+//     company: undefined,
+// }
+// a.company = "BJIT"
+
+// console.log(a)
+
 let a: {
-    [key: string]: string | number | undefined
+    name: string,
+    age: number,
+    company: string,
+    address: {}
+    
 } = {
     name: "Umayer",
     age: 21,
-    company: undefined,
+    company: "Oracle",
+    address: {
+        houseNo: "room 456",
+        block: 20
+    }
 }
-a.company = "BJIT"
-
 console.log(a)
