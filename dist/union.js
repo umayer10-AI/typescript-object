@@ -11,6 +11,12 @@
 // console.log(a())
 Object.defineProperty(exports, "__esModule", { value: true });
 const a = (v) => {
+    if (typeof v === "string") {
+        return `My name is ${v}`;
+    }
+    if (typeof v === "number") {
+        return v;
+    }
     return v;
 };
 console.log(a("Umayer Ahmad"));
