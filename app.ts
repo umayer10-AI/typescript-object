@@ -1,12 +1,23 @@
+// let a: {
+//     name: string,
+//     age: number,
+//     company: string
+// } = {
+//     name: "Umayer",
+//     age: 21,
+//     company: "Oracle",
+// }
+// // a.name = "Ahmad"
+
+// console.log(a)
+
 let a: {
-    name: string,
-    age: number,
-    company: string
+    [key: string]: string | number | undefined
 } = {
     name: "Umayer",
     age: 21,
-    company: "Oracle",
+    company: undefined,
 }
-// a.name = "Ahmad"
+a.company = "BJIT"
 
 console.log(a)
